@@ -8,6 +8,7 @@ description: "Peer-to-Peer Databases for the Decentralized Web"
 search: true
 author: "OrbitDB Community"
 url: https://orbitdb.org
+github: https://github.com/RichardLitt/orbitdb.org
 # Site owner
 owner:
   name: OrbitDB
