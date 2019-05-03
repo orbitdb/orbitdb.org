@@ -1,0 +1,55 @@
+// TYPOGRAPHY ================================================
+$base-font                : 'Open Sans', sans-serif;
+$caption-font             : $base-font;
+$code-font                : 'source-code-pro', monospace;
+$alt-font                 : 'Roboto Slab', serif;
+$heading-font             : $alt-font;
+
+$doc-font-size            : 16;
+$doc-line-height          : 24;
+
+$border-radius            : 3px;
+
+
+// set-up the body font-size / line-height
+body {
+  margin-top: 0px + $doc-line-height;
+  font-size: 0px + $doc-font-size;
+}
+
+
+// OrbitDB Branding Colors ======================================
+$primary-black            : #2D2A26;
+$primary-color            : #CF8A00;
+$primary-gray             : #636569;
+$primary-white            : #ffffff;
+$secondary-black          : #000;
+$secondary-color          : #F5A800;
+$secondary-gray           : #D9D8D6;
+
+
+// COLORS =====================================================
+$body-color               : $primary-white;
+$text-color               : $primary-black;
+$base-color               : $primary-black;
+$comp-color               : adjust-hue($base-color, 180); // Not sure about this
+$border-color             : $secondary-black;
+$white                    : $primary-white ;
+$black                    : $primary-black;
+$accent-color             : $secondary-black;
+$link-color               : $primary-gray;
+
+$table-border-color       : $border-color;
+$table-border             : 1px solid $table-border-color;
+$table-background         : $body-color;
+$table-header-color       : lighten($table-background, 10);
+$table-hover-color        : darken($table-background, 2);
+$table-stripe-color       : darken($table-background, 4);
+$table-stripe-color-hover : darken($table-stripe-color, 5);
+
+// MEDIA QUERIES ==============================================
+$micro                    : "only screen and (min-width: 30em)";
+$small                    : "only screen and (min-width: 37.5em)";
+$medium                   : "only screen and (min-width: 48em)";
+$large                    : "only screen and (min-width: 62em)";
+$x-large                  : "only screen and (min-width: 86.375em)";
