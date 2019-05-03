@@ -1,4 +1,4 @@
-# orbitdb.io
+# orbitdb.org
 
 > The website for OrbitDB
 
