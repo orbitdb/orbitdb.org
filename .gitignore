@@ -1,1 +1,6 @@
-_site
+*~
+.sass-cache/
+_site/
+.DS_Store
+node_modules
+.tweet-cache
