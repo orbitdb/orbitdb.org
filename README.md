@@ -18,4 +18,4 @@ Right now, this is not a design-by-committee work. I'm working on the main draft
 
 ## License
 
-[MIT](LICENSE.md) © Burnt Fen Creative LLC 2019
+[MIT](LICENSE) © Burnt Fen Creative LLC 2019
