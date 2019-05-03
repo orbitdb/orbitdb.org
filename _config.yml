@@ -1,8 +1,61 @@
-title: "OrbitDB"
-description: "Peer-to-Peer Databases for the Decentralized Web"
-# TODO keywords: "p2p", "distributed", "decentralized", "databases", "database", "ipfs"
-url: "https://orbitdb.io"
-author: "OrbitDB Community"
+# Site wide configuration
 
+title: OrbitDB
+locale: en_US
+description: "Peer-to-Peer Databases for the Decentralized Web"
+# TODO Keywords
+# TODO logo: logo-white-background.png
+search: true
+author: "OrbitDB Community"
+url: https://orbitdb.org
+# Site owner
+owner:
+  name: OrbitDB
+  avatar: # TODO logo-white-background.png # Currently not used. Double check if you implement this.
+  email: community@orbitdb.org
+  disqus-shortname:
+  twitter: # TODO
+  facebook: #username
+  github: orbitdb
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics:
+    verify: # TODO
+    ad-client:
+    ad-slot:
+  bing-verify:
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
 plugins:
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jekyll-twitter-plugin
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+include: [".htaccess"]
+# Excluding most of the usual suspects
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "gulpfile.js", "package.json", "package-lock.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", "theme-setup"]
