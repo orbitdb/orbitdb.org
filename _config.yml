@@ -4,7 +4,8 @@ title: OrbitDB
 locale: en_US
 description: "Peer-to-Peer Databases for the Decentralized Web"
 # TODO Keywords
-# TODO logo: logo-white-background.png
+logo: orbit_db_logo_color.png
+wordless_logo: favicon.png
 search: true
 author: "OrbitDB Community"
 url: https://orbitdb.org
