@@ -1,0 +1,8 @@
+title: "OrbitDB"
+description: "Peer-to-Peer Databases for the Decentralized Web"
+# TODO keywords: "p2p", "distributed", "decentralized", "databases", "database", "ipfs"
+url: "https://orbitdb.io"
+author: "OrbitDB Community"
+
+plugins:
+  - jekyll-feed
