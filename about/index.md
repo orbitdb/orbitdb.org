@@ -25,6 +25,15 @@ OrbitDB provides various types of databases for different data models and use ca
 
 All databases are [implemented](https://github.com/orbitdb/orbit-db-store) on top of [ipfs-log](https://github.com/orbitdb/ipfs-log), an immutable, operation-based conflict-free replicated data structure (CRDT) for distributed systems. If none of the OrbitDB database types match your needs and/or you need case-specific functionality, you can easily [implement and use a custom database store](https://github.com/orbitdb/orbit-db/blob/master/GUIDE.md#custom-stores) of your own.
 
+## Sponsors
+
+OrbitDB is an open source, open project. Anyone can jump in and hack on it; anyone can create submodules that use it or get involved in the planning project. That having been said, much of the work is currently funded and run by members of [Haja Networks](https://haja.io/).
+
+Other sponsors of work on OrbitDB include:
+
+- [Protocol Labs](https://protocol.ai)
+- [Maintainer Mountaineer](https://maintainer.io) and [Burnt Fen Creative](https://burntfen.com)
+
 # Contact
 
 {% include contact.html %}
