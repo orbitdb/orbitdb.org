@@ -3,7 +3,6 @@
 title: OrbitDB
 locale: en_US
 description: "Peer-to-Peer Databases for the Decentralized Web"
-# TODO Keywords
 logo: orbit_db_logo_color.png
 wordless_logo: favicon.png
 search: true

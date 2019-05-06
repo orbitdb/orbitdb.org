@@ -2,6 +2,7 @@
 layout: page
 title: "Home"
 ignore_title: true
+tags: ["decentralized", "decentralised", "database", "p2p", "peer-to-peer", "web", "ipfs", "haja", "orbit", "orbitdb"]
 excerpt: "Peer-to-Peer Databases for the Decentralized Web"
 search_omit: true
 ---
