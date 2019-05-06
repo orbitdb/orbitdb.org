@@ -7,15 +7,15 @@ excerpt: "Peer-to-Peer Databases for the Decentralized Web"
 search_omit: true
 ---
 
-<h1 class="site-description center" itemprop="description">Peer-to-Peer Databases for the Decentralized Web</h1>
+<h2 class="site-description center" itemprop="description">Peer-to-Peer Databases for the Decentralized Web</h2>
 
 <p class="center"><a href="https://gitter.im/orbitdb/Lobby"><img src="https://img.shields.io/gitter/room/nwjs/nw.js.svg" alt="Gitter"/></a> <a href="https://circleci.com/gh/orbitdb/orbit-db" alt="CircleCI Status"><img src="https://circleci.com/gh/orbitdb/orbit-db.svg?style=shield" /></a>
 <a href="https://www.npmjs.com/package/orbit-db" alt="npm version"><img src="https://badge.fury.io/js/orbit-db.svg" /></a>
 <a href="https://www.npmjs.com/package/orbit-db" alt="node"><img src="https://img.shields.io/node/v/orbit-db.svg" /></a></p>
 
-OrbitDB is a **serverless, distributed, peer-to-peer database**. OrbitDB uses [IPFS](https://ipfs.io) as its data storage and [IPFS Pubsub](https://github.com/ipfs/go-ipfs/blob/master/core/commands/pubsub.go#L23) to automatically sync databases with peers. It's an eventually consistent database that uses [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) for conflict-free database merges making OrbitDB an excellent choice for decentralized apps (dApps), blockchain applications and offline-first web applications.
+OrbitDB is a serverless, distributed, peer-to-peer database. OrbitDB uses [IPFS](https://ipfs.io) as its data storage and [IPFS Pubsub](https://github.com/ipfs/go-ipfs/blob/master/core/commands/pubsub.go#L23) to automatically sync databases with peers. It's an eventually consistent database that uses [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) for conflict-free database merges making OrbitDB an excellent choice for decentralized apps (dApps), blockchain applications and offline-first web applications.
 
-<h4 class="center" id="test">Test it live!</h4>
+<h2 class="center" id="test">Test it live!</h2>
 
 <p class="center">
 <a class="btn btn-demo" href="https://ipfs.io/ipfs/QmeESXh9wPib8Xz7hdRzHuYLDuEUgkYTSuujZ2phQfvznQ/">Live Demo 1</a> 
