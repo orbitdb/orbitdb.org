@@ -27,7 +27,7 @@ All databases are [implemented](https://github.com/orbitdb/orbit-db-store) on to
 
 ## Sponsors
 
-OrbitDB is an open source, open project. Anyone can jump in and hack on it; anyone can create submodules that use it or get involved in the planning project. That having been said, much of the work is currently funded and run by members of [Haja Networks](https://haja.io/).
+OrbitDB is an open source, open project. Anyone can jump in and hack on it; anyone can create submodules that use it or get involved in planning future developments. That having been said, much of the work is currently funded and run by members of [Haja Networks](https://haja.io/).
 
 Other sponsors of work on OrbitDB include:
 
