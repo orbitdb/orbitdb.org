@@ -1,6 +1,6 @@
 <div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" >
-			<img src="images/{{ site.wordless_logo }}" class="nav-image"/>
+			<img src="{{ BASE_URL }}/images/{{ site.wordless_logo }}" class="nav-image"/>
 	    <ul>
       {% for link in site.data.navigation %}
 		    {% if link.url contains 'http' %}
