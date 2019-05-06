@@ -29,15 +29,15 @@ $secondary-gray           : #D9D8D6;
 
 
 // COLORS =====================================================
-$body-color               : $primary-white;
-$text-color               : $primary-black;
+$body-color               : $primary-gray;
+$text-color               : $primary-white;
 $base-color               : $primary-black;
 $comp-color               : adjust-hue($base-color, 180); // Not sure about this
 $border-color             : $secondary-black;
 $white                    : $primary-white ;
 $black                    : $primary-black;
 $accent-color             : $secondary-black;
-$link-color               : $primary-gray;
+$link-color               : $primary-color;
 
 $table-border-color       : $border-color;
 $table-border             : 1px solid $table-border-color;

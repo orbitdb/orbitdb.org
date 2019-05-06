@@ -47,7 +47,7 @@ p {
 }
 
 li {
-	@include font-size(16,12,24);
+	@include font-size(18,12,26);
 }
 
 /* headings */
@@ -211,7 +211,7 @@ p,
 li {
 
 	code {
-		@include font-size(14);
+		@include font-size(16);
 		font-family: $code-font;
 		white-space: nowrap;
 		margin: 0 2px;
