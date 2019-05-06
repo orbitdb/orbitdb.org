@@ -12,7 +12,7 @@ url: https://orbitdb.org
 github: https://github.com/RichardLitt/orbitdb.org
 # Site owner
 owner:
-  name: OrbitDB
+  name: OrbitDB Community
   avatar: # TODO logo-white-background.png # Currently not used. Double check if you implement this.
   email: community@orbitdb.org
   disqus-shortname:
