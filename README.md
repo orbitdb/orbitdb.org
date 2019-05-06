@@ -19,7 +19,7 @@ See the issues for more. I'll be dropping TODOs throughout the code.
 
 1. Clone.
 2. `npm install`
-3. `bundle instal`
+3. `bundle install` (If you don't have `bundler`, try `gem install bundler` first).
 4. `bundle exec jekyll serve` (Or, to simply generate the static site, `bundle exec jekyll build`).
 5. Go to `localhost:4000`.
 
