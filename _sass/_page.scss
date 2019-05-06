@@ -80,6 +80,7 @@ span + .entry-title {
 	font-weight: 400;
 	line-height: 1;
 	letter-spacing: -3px;
+	text-transform: capitalize;
 
 	a {
 		color: $black;

@@ -35,6 +35,7 @@ div.post-entry-title {
   @include font-size(18);
   color: $primary-color;
   margin-top: 16px;
+  text-transform: capitalize;
 
   @include media($medium) {
     @include font-size(22);
