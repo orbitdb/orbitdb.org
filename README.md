@@ -17,11 +17,15 @@ See the issues for more. I'll be dropping TODOs throughout the code.
 
 ### Testing the site locally
 
-TODO
+1. Clone.
+2. `npm install`
+3. `bundle instal`
+4. `bundle exec jekyll serve` (Or, to simply generate the static site, `bundle exec jekyll build`).
+5. Go to `localhost:4000`.
 
 ### Adding a post
 
-TODO
+TODO I need to add a Rakefile.
 
 ### Adding Images
 
