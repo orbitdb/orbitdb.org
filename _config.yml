@@ -15,7 +15,7 @@ owner:
   avatar: # TODO logo-white-background.png # Currently not used. Double check if you implement this.
   email: community@orbitdb.org
   disqus-shortname:
-  twitter: # TODO
+  twitter: orbit_db
   facebook: #username
   github: orbitdb
   stackexchange: #http://stackoverflow.com/users/123456/username
