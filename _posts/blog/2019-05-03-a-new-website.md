@@ -13,6 +13,6 @@ It's about time that OrbitDB has its own website. While the community docs and t
 
 That's what we'll put here. Blog posts about stuff going on, and links to places you can get involved.
 
-All of the code for this website is, of course, open source. You can find it on [GitHub](https://github.com/orbitbd/orbitdb.org). And you can contribute any time you like. [Open an issue!](https://github.com/orbitbd/orbitdb.org/issues/new)
+All of the code for this website is, of course, open source. You can find it on [GitHub](https://github.com/orbitdb/orbitdb.org). And you can contribute any time you like. [Open an issue!](https://github.com/orbitdb/orbitdb.org/issues/new)
 
 <3
