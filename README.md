@@ -1,5 +1,7 @@
 # orbitdb.org
 
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/orbitdb/Lobby) [![Matrix](https://img.shields.io/badge/matrix-%23orbitdb%3Apermaweb.io-blue.svg)](https://riot.permaweb.io/#/room/#orbitdb:permaweb.io) [![Discord](https://img.shields.io/discord/475789330380488707?color=blueviolet&label=discord)](https://discord.gg/cscuf5T)
+
 > The website for OrbitDB
 
 This is the planned website for the OrbitDB project. At the moment, this website is a **WIP**. Your mileage may vary, use at your own risk, &c., &c.
