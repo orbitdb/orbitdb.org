@@ -225,7 +225,7 @@ We're now using `identity.id` instead of `identity.key` in the access controller
 
 ### New formats in ipfs-io
 
-You can now write the argument2 for orbit-db-io directly, without needing to stringify.
+You can now write the arguments for orbit-db-io directly, without needing to stringify.
 
 - [orbit-db-io/pull/3](https://github.com/orbitdb/orbit-db-io/pull/3)
 
