@@ -152,7 +152,7 @@ Relevant PRs:
 
 #### Things the reader should know
 
-1. A Cache schema migration is required for 0.22 -> 0.21. **The migration
+1. A Cache schema migration is required for 0.21 -> 0.22. **The migration
 should happen automatically with no user action,** but if you have problems
 create an issue in [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db).
 2. This is not required, but we are moving toward a first-principle of OrbitDB being a singleton orchestrator for _an entire_ node.
