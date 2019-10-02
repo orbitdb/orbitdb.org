@@ -231,7 +231,7 @@ You can now write the argument2 for orbit-db-io directly, without needing to str
 
 ### A metafield in the manifest
 
-Users now have the ability to add additional data to the db manifest. This could be useful when wanting to package information with the db that should not change during the lifetime of the db. An example could be adding a public ECDH key that the owner of the db controls. (Thanks, [@oed](https://github.com/oed)!)
+Users now have the ability to add additional data to the db manifest. This could be useful when wanting to package information with the db that should not change during the lifetime of the db. An example could be adding a public ECDH key that the owner of the db controls. (Thanks, [@tabcat](https://github.com/tabcat)!)
 
 - [orbitdb/orbit-db/pull/681](https://github.com/orbitdb/orbit-db/pull/681)
 
