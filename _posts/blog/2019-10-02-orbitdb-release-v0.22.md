@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Release notes for OrbitDB v0.22"
+title:  "OrbitDB 0.22 released"
 excerpt: "Release notes for OrbitDB v0.22"
 tags: []
 date: 2019-10-02
