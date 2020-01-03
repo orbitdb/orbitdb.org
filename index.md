@@ -29,3 +29,50 @@ search_omit: true
   <li><article><a href="{{ site.url }}{{ post.url }}"><div class="post-entry-title">{{ post.title }}</div> <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
+
+<h2 class="center">OrbitDB Users</h2>
+
+<div class="logo-container">
+  <div class="third">
+    <img src="images/users/3box.png" />
+  </div>
+  <div class="third">
+    <img src="images/users/anchor.png" />
+  </div>
+  <div class="third">
+    <img src="images/users/berty.png" />
+  </div>
+  <div class="third">
+    <img src="images/users/bitcoin-cash.png" />
+  </div>
+  <div class="third">
+    <img src="images/users/bitcoincom.png" />
+  </div>
+  <div class="third">
+    <img src="images/users/blocklab.png" />
+  </div>
+  <div class="third">
+    <img src="images/users/colony.png" />
+  </div>
+  <div class="third">
+    <img src="images/users/heronode.png" />
+  </div>
+  <div class="third">
+    <img src="images/users/ipfs.png" />
+  </div>
+  <div class="third">
+    <img src="images/users/large.png" />
+  </div>
+  <div class="third">
+    <img src="images/users/magicleap.png" />
+  </div>
+  <div class="third">
+    <img src="images/users/origin.png" />
+  </div>
+  <div class="third">
+    <img src="images/users/tallylab.png" />
+  </div>
+  <div class="third">
+    <img src="images/users/transmute.png" />
+  </div>
+</div>

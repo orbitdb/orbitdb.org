@@ -59,3 +59,31 @@ div.post-entry-title {
 p code, li code {
   color: #000;
 }
+
+.logo-container {
+  width: 100%;
+}
+
+@media (max-width: 600px) {
+  .third {
+    width: 80%;
+    margin: 0px 10%;
+  }
+}
+
+@media (min-width: 601px) {
+  .third {
+    width: 32.5%;
+  }
+}
+
+.third {
+  padding: 0px 15px;
+  display: inline-block;
+  text-align: center;
+  img {
+    max-height: 100px;
+    margin: 30px auto;
+    vertical-align: middle;
+  }
+}
