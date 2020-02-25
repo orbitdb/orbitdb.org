@@ -58,19 +58,10 @@ search_omit: true
     <img src="images/users/heronode.png" />
   </div>
   <div class="third">
-    <img src="images/users/ipfs.png" />
-  </div>
-  <div class="third">
     <img src="images/users/large.png" />
   </div>
   <div class="third">
-    <img src="images/users/magicleap.png" />
-  </div>
-  <div class="third">
     <img src="images/users/metamask.png" />
-  </div>
-  <div class="third">
-    <img src="images/users/origin.png" />
   </div>
   <div class="third">
     <img src="images/users/tallylab.png" />
