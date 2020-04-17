@@ -15,7 +15,8 @@ search_omit: true
 
 [OrbitDB](https://github.com/orbitdb/orbit-db) is a serverless, distributed, peer-to-peer database. OrbitDB uses [IPFS](https://ipfs.io) as its data storage and [IPFS Pubsub](https://github.com/ipfs/go-ipfs/blob/master/core/commands/pubsub.go#L23) to automatically sync databases with peers. It's an eventually consistent database that uses [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) for conflict-free database merges making OrbitDB an excellent choice for decentralized apps (dApps), blockchain applications and offline-first web applications.
 
-You can read about how to get started in the [OrbitDB Field Manual](https://github.com/orbitdb/field-manual).
+You can read about how to get started in this [Getting Started Guide](https://github.com/orbitdb/orbit-db/blob/master/GUIDE.md).<br />
+Find out about how OrbitDB works more in depth in the [OrbitDB Field Manual](https://github.com/orbitdb/field-manual).
 
 <h2 class="center" id="test">Test it live!</h2>
 
