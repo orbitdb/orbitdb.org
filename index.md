@@ -72,4 +72,7 @@ Find out how OrbitDB works more in depth in the [OrbitDB Field Manual](https://g
   <div class="third">
     <img src="images/users/transmute.png" />
   </div>
+  <div class="third">
+    <img src="images/users/3S_logo.svg" />
+  </div>
 </div>
