@@ -73,3 +73,10 @@ Find out how OrbitDB works more in depth in the [OrbitDB Field Manual](https://g
     <img src="images/users/transmute.png" />
   </div>
 </div>
+
+
+<h2 class="center">Contribute</h2>
+
+<div class="center">
+  <iframe src="https://opencollective.com/embed/orbitdb/donate" />
+</div>
