@@ -23,7 +23,7 @@ Find out how OrbitDB works more in depth in the [OrbitDB Field Manual](https://g
 <p class="center">
 <a class="btn btn-demo" href="https://ipfs.io/ipfs/QmUsoSkGzUQnCgzfjL549KKf29m5EMYky3Y6gQp5HptLTG/">Live Demo 1</a>
 <a class="btn btn-demo" href="https://ipfs.io/ipfs/QmasHFRj6unJ3nSmtPn97tWDaQWEZw3W9Eh3gUgZktuZDZ/">Live Demo 2</a>
-<a class="btn btn-demo" href="https://ipfs.io/ipfs/QmdapauyBinux52DUCfhRV44FTWmg6i1krvhQtKDEDWCPZ/">P2P TodoMVC App</a>
+<a class="btn btn-demo" href="https://ipfs.io/ipfs/QmVWQMLUM3o4ZFbLtLMS1PMLfodeEeBkBPR2a2R3hqQ337/">P2P TodoMVC App</a>
 </p>
 
 <h2 class="center">Announcements and Updates</h2>
