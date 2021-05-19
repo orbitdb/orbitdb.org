@@ -14,7 +14,6 @@ This will be a Jekyll site hosted on GitHub Pages (and perhaps on Netlify), beca
 
 See the issues for more. I'll be dropping TODOs throughout the code.
 
-
 ## Usage
 
 ### Testing the site locally
