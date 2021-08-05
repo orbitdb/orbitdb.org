@@ -4,8 +4,7 @@ title: Community
 excerpt: ""
 ---
 
-OrbitDB has an active developer community. Your best place to find us is on [Gitter](https://gitter.im/orbitdb/Lobby).
-We also have communities on [Matrix](https://riot.im/app/#/room/#orbit-db:matrix.org) and [Discord](https://discord.gg/v3RNE3M). And all of these chats are bridged together!
+OrbitDB has an active developer community. Your best place to find us is on [Matrix](https://riot.im/app/#/room/#orbit-db:matrix.org) or [Gitter](https://gitter.im/orbitdb/Lobby).
 
 ## Code of Conduct
 
