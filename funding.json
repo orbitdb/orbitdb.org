@@ -1,0 +1,98 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "group",
+    "role": "owner",
+    "name": "OrbitDB",
+    "email": "info@orbitdb.org",
+    "description": "OrbitDB is a serverless, distributed, peer-to-peer database. OrbitDB uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers. It’s an eventually consistent database that uses CRDTs for conflict-free database merges making OrbitDB an excellent choice for decentralized apps (dApps), blockchain applications and offline-first web applications.\n\nOrbitDB empowers developers to build applications which protect data ownership, ensure user privacy and resist censorship.\n\nOrbitDB provides a crucial layer to the decentralized development stack, data storage. OrbitDB will drive the next generation of decentralized applications.",
+    "webpageUrl": {
+      "url": "https://orbitdb.org"
+    }
+  },
+  "projects": [
+    {
+      "guid": "encryption",
+      "name": "Encryption",
+      "description": "OrbitDB is incorporating encryption into its core functionality, allowing developers to encrypt data at both the individual record and entire database level.\n\nThrough a modular design, developers will be able to select the best encryption model for them application; some developers may opt for symmetric encryption for simplicity while others may require asymmetric encryption for records not intended for the creator. Some developers may require both, for example, when building a two-way chat system.\n\nEncryption will allow OrbitDB to compete as a viable alternative to traditional, centralized database systems.",
+      "webpageUrl": {
+        "url": "https://github.com/orbitdb/orbitdb",
+        "wellKnown": "https://github.com/orbitdb/orbitdb/blob/main/.well-known/funding-manifest-urls"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/orbitdb/orbitdb",
+        "wellKnown": "https://github.com/orbitdb/orbitdb/blob/main/.well-known/funding-manifest-urls"
+      },
+      "licenses": [
+        "spdx:MIT"
+      ],
+      "tags": [
+        "programming",
+        "cryptography",
+        "data",
+        "database",
+        "decentralized",
+        "dapp",
+        "privacy"
+      ]
+    },
+    {
+      "guid": "voyager",
+      "name": "Voyager - OrbitDB Pinning",
+      "description": "Voyager is OrbitDB's pinning server.\n\nBecause of its peer-to-peer nature, OrbitDB cannot guarantee a user's database will always be available. In the case browser-based applications leveraging OrbitDB, as soon as the machine is offline, the data is no longer available until the machine returns to an online state.\n\nPinning allows databases to be replicated even if the source machine is offline. It also offers a great way to back up data, ensuring multiple copies but also guaranteeing the user owns and controls the source database.",
+      "webpageUrl": {
+        "url": "https://github.com/orbitdb/orbit-db-pinner",
+        "wellKnown": "https://github.com/orbitdb/orbit-db-pinner/blob/pinner/new-refactor-2-helia-upgrade/.well-known/funding-manifest-urls"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/orbitdb/orbit-db-pinner",
+        "wellKnown": "https://github.com/orbitdb/orbit-db-pinner/blob/pinner/new-refactor-2-helia-upgrade/.well-known/funding-manifest-urls"
+      },
+      "licenses": [
+        "spdx:MIT"
+      ],
+      "tags": [
+        "programming",
+        "cryptography",
+        "data",
+        "database",
+        "decentralized",
+        "dapp",
+        "privacy",
+        "p2p"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "bitcoin",
+        "type": "other",
+        "address": "1Cr3MDh6jXfdPx5ysRLiCWPc3wKLq5vKZq",
+        "description": "Bitcoin payment. Send funds to address provided. If you would like to send a test payment, please email us first."
+      },
+      {
+        "guid": "ethereum",
+        "type": "other",
+        "address": "0x7d8d6519c81de8017d473247b4374fafb42996f5",
+        "description": "Ethereum payment. Send funds to address provided to any Ethereum-based chain. If you would like to send a test payment, please email us first."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "development",
+        "status": "active",
+        "name": "Development",
+        "description": "Engaging technical expertise including developers, sysadmins and devops.",
+        "amount": 0,
+        "currency": "USD",
+        "frequency": "other",
+        "channels": [
+          "bitcoin",
+          "ethereum"
+        ]
+      }
+    ],
+    "history": []
+  }
+}
