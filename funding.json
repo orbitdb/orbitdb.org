@@ -17,11 +17,11 @@
       "description": "OrbitDB is incorporating encryption into its core functionality, allowing developers to encrypt data at both the individual record and entire database level.\n\nThrough a modular design, developers will be able to select the best encryption model for them application; some developers may opt for symmetric encryption for simplicity while others may require asymmetric encryption for records not intended for the creator. Some developers may require both, for example, when building a two-way chat system.\n\nEncryption will allow OrbitDB to compete as a viable alternative to traditional, centralized database systems.",
       "webpageUrl": {
         "url": "https://github.com/orbitdb/orbitdb",
-        "wellKnown": "https://github.com/orbitdb/orbitdb/blob/main/.well-known/funding-manifest-urls"
+        "wellKnown": "https://github.com/orbitdb/orbitdb/raw/refs/heads/main/.well-known/funding-manifest-urls"
       },
       "repositoryUrl": {
         "url": "https://github.com/orbitdb/orbitdb",
-        "wellKnown": "https://github.com/orbitdb/orbitdb/blob/main/.well-known/funding-manifest-urls"
+        "wellKnown": "https://github.com/orbitdb/orbitdb/raw/refs/heads/main/.well-known/funding-manifest-urls"
       },
       "licenses": [
         "spdx:MIT"
@@ -42,11 +42,11 @@
       "description": "Voyager is OrbitDB's pinning server.\n\nBecause of its peer-to-peer nature, OrbitDB cannot guarantee a user's database will always be available. In the case browser-based applications leveraging OrbitDB, as soon as the machine is offline, the data is no longer available until the machine returns to an online state.\n\nPinning allows databases to be replicated even if the source machine is offline. It also offers a great way to back up data, ensuring multiple copies but also guaranteeing the user owns and controls the source database.",
       "webpageUrl": {
         "url": "https://github.com/orbitdb/orbit-db-pinner",
-        "wellKnown": "https://github.com/orbitdb/orbit-db-pinner/blob/pinner/new-refactor-2-helia-upgrade/.well-known/funding-manifest-urls"
+        "wellKnown": "https://github.com/orbitdb/orbit-db-pinner/raw/refs/heads/pinner/new-refactor-2-helia-upgrade/.well-known/funding-manifest-urls"
       },
       "repositoryUrl": {
         "url": "https://github.com/orbitdb/orbit-db-pinner",
-        "wellKnown": "https://github.com/orbitdb/orbit-db-pinner/blob/pinner/new-refactor-2-helia-upgrade/.well-known/funding-manifest-urls"
+        "wellKnown": "https://github.com/orbitdb/orbit-db-pinner/raw/refs/heads/pinner/new-refactor-2-helia-upgrade/.well-known/funding-manifest-urls"
       },
       "licenses": [
         "spdx:MIT"
