@@ -42,11 +42,11 @@
       "description": "Voyager is OrbitDB's pinning server.\n\nBecause of its peer-to-peer nature, OrbitDB cannot guarantee a user's database will always be available. In the case browser-based applications leveraging OrbitDB, as soon as the machine is offline, the data is no longer available until the machine returns to an online state.\n\nPinning allows databases to be replicated even if the source machine is offline. It also offers a great way to back up data, ensuring multiple copies but also guaranteeing the user owns and controls the source database.",
       "webpageUrl": {
         "url": "https://github.com/orbitdb/orbit-db-pinner",
-        "wellKnown": "https://github.com/orbitdb/orbit-db-pinner/raw/refs/heads/pinner/new-refactor-2-helia-upgrade/.well-known/funding-manifest-urls"
+        "wellKnown": "https://github.com/orbitdb/orbit-db-pinner/raw/refs/heads/pinner/new-refactor-2/.well-known/funding-manifest-urls"
       },
       "repositoryUrl": {
         "url": "https://github.com/orbitdb/orbit-db-pinner",
-        "wellKnown": "https://github.com/orbitdb/orbit-db-pinner/raw/refs/heads/pinner/new-refactor-2-helia-upgrade/.well-known/funding-manifest-urls"
+        "wellKnown": "https://github.com/orbitdb/orbit-db-pinner/raw/refs/heads/pinner/new-refactor-2/.well-known/funding-manifest-urls"
       },
       "licenses": [
         "spdx:MIT"
