@@ -117,6 +117,19 @@
           "bitcoin",
           "ethereum"
         ]
+      },
+      {
+        "guid": "infrastructure",
+        "status": "active",
+        "name": "Infrastructure",
+        "description": "Server infrastructure. OrbitDB uses Bitlaunch. Bitlaunch accepts cryptocurrencies payments for hosting costs.",
+        "amount": 50,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "bitcoin",
+          "ethereum"
+        ]
       }
     ],
     "history": []
