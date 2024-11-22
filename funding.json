@@ -61,6 +61,32 @@
         "privacy",
         "p2p"
       ]
+    },
+    {
+      "guid": "go-orbitdb",
+      "name": "go-orbitdb - OrbitDB for Golang developers",
+      "description": "Go is a modern programming language for building system-based applications such as command line utilities, networking and servers.\n\ngo-orbitdb will provide Go developers with the ability to integrate peer-to-peer, decentralized databases into their applications and synchronize databases deployed other OrbitDB systems.",
+      "webpageUrl": {
+        "url": "https://github.com/orbitdb/go-orbitdb",
+        "wellKnown": "https://github.com/orbitdb/go-orbitdb/raw/refs/heads/main/.well-known/funding-manifest-urls"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/orbitdb/go-orbitdb",
+        "wellKnown": "https://github.com/orbitdb/go-orbitdb/raw/refs/heads/main/.well-known/funding-manifest-urls"
+      },
+      "licenses": [
+        "spdx:MIT"
+      ],
+      "tags": [
+        "programming",
+        "cryptography",
+        "data",
+        "database",
+        "decentralized",
+        "dapp",
+        "privacy",
+        "p2p"
+      ]
     }
   ],
   "funding": {
