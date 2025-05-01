@@ -94,13 +94,13 @@
       {
         "guid": "bitcoin",
         "type": "other",
-        "address": "1Cr3MDh6jXfdPx5ysRLiCWPc3wKLq5vKZq",
+        "address": "",
         "description": "Bitcoin payment. Send funds to address provided. If you would like to send a test payment, please email us first."
       },
       {
         "guid": "ethereum",
         "type": "other",
-        "address": "0x7d8d6519c81de8017d473247b4374fafb42996f5",
+        "address": "",
         "description": "Ethereum payment. Send funds to address provided to any Ethereum-based chain. If you would like to send a test payment, please email us first."
       }
     ],
